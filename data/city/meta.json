@@ -1,0 +1,33 @@
+{
+  "fetched_at": "2026-11-02T22:19:41+00:00",
+  "changed": [
+    "ptillaten",
+    "servicedagar",
+    "prorelsehindrad",
+    "pmotorcykel",
+    "plastbil",
+    "pbuss"
+  ],
+  "streets": [
+    "Ottsjövägen",
+    "Bränningevägen",
+    "Årstavägen",
+    "Siljansvägen",
+    "Åmänningevägen",
+    "Skedviksvägen",
+    "Hjälmarsvägen",
+    "Rämensvägen",
+    "Långhalsvägen",
+    "Borensvägen",
+    "Tämnarvägen",
+    "Bråviksvägen"
+  ],
+  "counts": {
+    "ptillaten": 156,
+    "servicedagar": 72,
+    "prorelsehindrad": 12,
+    "pmotorcykel": 6,
+    "plastbil": 0,
+    "pbuss": 0
+  }
+}

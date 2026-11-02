@@ -1,0 +1,525 @@
+{
+ "features": [
+  {
+   "bbox": [
+    18.048722,
+    59.297702,
+    18.048907,
+    59.297762
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.048907,
+      59.297702
+     ],
+     [
+      18.048722,
+      59.297762
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1169",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2016-02833",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 7690,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1169,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2016&LopNr=02833",
+    "STREET_NAME": "Årstavägen",
+    "VALID_FROM": "2016-12-14T23:00:00Z",
+    "VF_METER": 12,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.04608,
+    59.299449,
+    18.046171,
+    59.299478
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.046171,
+      59.299449
+     ],
+     [
+      18.046169,
+      59.29945
+     ],
+     [
+      18.046168,
+      59.29945
+     ],
+     [
+      18.04608,
+      59.299478
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1344",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2017-02020",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 2377,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1344,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2017&LopNr=02020",
+    "STREET_NAME": "Bränningevägen",
+    "VALID_FROM": "2017-03-07T23:00:00Z",
+    "VF_METER": 6,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.049757,
+    59.297544,
+    18.049806,
+    59.297591
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.049806,
+      59.297591
+     ],
+     [
+      18.049763,
+      59.29755
+     ],
+     [
+      18.049757,
+      59.297544
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1394",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2016-02823",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 2676,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1394,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2016&LopNr=02823",
+    "STREET_NAME": "Skedviksvägen",
+    "VALID_FROM": "2016-12-14T23:00:00Z",
+    "VF_METER": 6,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.041014,
+    59.300212,
+    18.041174,
+    59.30027
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.041174,
+      59.300212
+     ],
+     [
+      18.041112,
+      59.300233
+     ],
+     [
+      18.04111,
+      59.300234
+     ],
+     [
+      18.041039,
+      59.30026
+     ],
+     [
+      18.041034,
+      59.300262
+     ],
+     [
+      18.041014,
+      59.30027
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1695",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2018-02724",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 6667,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1695,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2018&LopNr=02724",
+    "STREET_NAME": "Årstavägen",
+    "VALID_FROM": "2018-05-14T22:00:00Z",
+    "VF_METER": 11,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.045315,
+    59.301193,
+    18.045415,
+    59.301213
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.045315,
+      59.301193
+     ],
+     [
+      18.045415,
+      59.301213
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1700",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2017-09728",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 9432,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1700,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2017&LopNr=09728",
+    "STREET_NAME": "Ottsjövägen",
+    "VALID_FROM": "2017-10-09T22:00:00Z",
+    "VF_METER": 6,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.045428,
+    59.295991,
+    18.045478,
+    59.296046
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.045478,
+      59.296046
+     ],
+     [
+      18.045428,
+      59.295991
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1916",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2020-05717",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 5353,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1916,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2020&LopNr=05717",
+    "STREET_NAME": "Rämensvägen",
+    "VALID_FROM": "2020-11-07T23:00:00Z",
+    "VF_METER": 7,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.055233,
+    59.29632,
+    18.055318,
+    59.296354
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.055318,
+      59.29632
+     ],
+     [
+      18.055233,
+      59.296354
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1925",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2022-04859",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 3398,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1925,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2022&LopNr=04859",
+    "STREET_NAME": "Borensvägen",
+    "VALID_FROM": "2022-12-09T23:00:00Z",
+    "VF_METER": 6,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.054102,
+    59.296789,
+    18.054176,
+    59.296826
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.054176,
+      59.296789
+     ],
+     [
+      18.054145,
+      59.296804
+     ],
+     [
+      18.054102,
+      59.296826
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.1926",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2024-01507",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 6227,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 1926,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2024&LopNr=01507",
+    "STREET_NAME": "Borensvägen",
+    "VALID_FROM": "2024-05-28T22:00:00Z",
+    "VF_METER": 6,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.053008,
+    59.297384,
+    18.053066,
+    59.297439
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.053066,
+      59.297439
+     ],
+     [
+      18.053008,
+      59.297384
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.2024",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2024-00083",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 2711,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 2024,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2024&LopNr=00083",
+    "STREET_NAME": "Hjälmarsvägen",
+    "VALID_FROM": "2024-02-17T23:00:00Z",
+    "VF_METER": 7,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.040055,
+    59.299519,
+    18.040129,
+    59.299548
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.040129,
+      59.299548
+     ],
+     [
+      18.040055,
+      59.299519
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.2179",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2024-00325",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 1036,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 2179,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2024&LopNr=00325",
+    "STREET_NAME": "Siljansvägen",
+    "VALID_FROM": "2024-03-08T23:00:00Z",
+    "VF_METER": 5,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.047081,
+    59.298266,
+    18.04715,
+    59.298288
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.04715,
+      59.298266
+     ],
+     [
+      18.047081,
+      59.298288
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.846",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2016-05826",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 2937,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 846,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2016&LopNr=05826",
+    "STREET_NAME": "Årstavägen",
+    "VALID_FROM": "2016-12-21T23:00:00Z",
+    "VF_METER": 6,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.052079,
+    59.296323,
+    18.052095,
+    59.296431
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.052081,
+      59.296431
+     ],
+     [
+      18.052079,
+      59.296419
+     ],
+     [
+      18.052081,
+      59.296386
+     ],
+     [
+      18.052095,
+      59.296323
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_RORELSEHINDRADE.869",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2021-04733",
+    "CITY_DISTRICT": "Årsta",
+    "EXTENT_NO": 9046,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 869,
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 4: 10 kr/tim vardagar 7-19, dag före helgdag 11-17, Boende: 500 kr/månad eller 35 kr/dygn",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2021&LopNr=04733",
+    "STREET_NAME": "Bråviksvägen",
+    "VALID_FROM": "2021-11-12T23:00:00Z",
+    "VF_METER": 12,
+    "VF_PLATS_TYP": "Reserverad p-plats rörelsehindrad"
+   },
+   "type": "Feature"
+  }
+ ],
+ "type": "FeatureCollection"
+}
