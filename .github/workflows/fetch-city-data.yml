@@ -1,0 +1,30 @@
+name: Hämta stadens parkeringsdata
+
+on:
+  schedule:
+    - cron: "17 3 * * 1"   # varje måndag 03:17 UTC
+  workflow_dispatch:       # knappen "Run workflow" på GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Hämta data
+        run: python3 scripts/fetch_city_data.py
+
+      - name: Spara ändringar
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/city
+          if git diff --cached --quiet; then
+            echo "Inget nytt att spara."
+          else
+            git commit -m "Uppdatera stadens parkeringsdata"
+            git push
+          fi
