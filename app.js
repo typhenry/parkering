@@ -153,8 +153,11 @@ function popupHtml(seg, st) {
 
 const map = L.map('map', { zoomControl: false }).setView(ARSTA_TORG, 16);
 L.control.zoom({ position: 'bottomright' }).addTo(map);
-L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-  maxZoom: 20, subdomains: 'abcd',
+// CARTO-nyckeln syns för alla som öppnar sidan; det går inte att undvika
+// för kartbakgrunder som laddas direkt i webbläsaren.
+const CARTO_KEY = 'cb1_5269_1_679f79a580e4734d1ac13842';
+L.tileLayer(`https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=${CARTO_KEY}`, {
+  maxZoom: 20,
   attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · © <a href="https://carto.com/attributions">CARTO</a> · Data: Stockholms stad',
 }).addTo(map);
 
