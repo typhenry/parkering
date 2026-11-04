@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Parkering Årsta torg</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="map"></div>
+
+<div id="panel">
+  <div class="panel-head">
+    <strong>Parkering kring Årsta torg</strong>
+    <button id="toggle" aria-label="Visa/dölj panel">–</button>
+  </div>
+  <div class="panel-body">
+    <label class="when">
+      Visa läget för
+      <input type="datetime-local" id="when">
+    </label>
+    <button id="now" class="linkish">Återställ till nu</button>
+    <ul class="legend">
+      <li><span class="sw red"></span>Förbjudet just nu</li>
+      <li><span class="sw orange"></span>OK nu, men förbud inom 24 h</li>
+      <li><span class="sw blue"></span>OK, inget förbud inom 24 h</li>
+      <li><span class="sw purple"></span>Reserverad (MC / rörelsehindrad)</li>
+    </ul>
+    <p class="note">Gator utan färg finns inte i stadens data. Allt är <em>ej verifierat</em> tills det är kontrollerat på plats.</p>
+    <p class="note" id="fetched"></p>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
