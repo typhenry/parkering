@@ -29,7 +29,7 @@
     "type": "LineString"
    },
    "geometry_name": "GEOMETRY",
-   "id": "LTFR_P_MOTORCYKEL.182",
+   "id": "LTFR_P_MOTORCYKEL.209",
    "properties": {
     "ADDRESS": "<Adress saknas>",
     "CITATION": "0180 2019-05280",
@@ -39,7 +39,7 @@
     "EXTENT_NO": 4062,
     "FEATURE_OBJECT_ID": 0,
     "FEATURE_VERSION_ID": 0,
-    "FID": 182,
+    "FID": 209,
     "OTHER_INFO": "Servicetid måndag 08:00–16:00 1 november–15 maj",
     "PARKING_DISTRICT": "Årsta",
     "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
@@ -82,7 +82,7 @@
     "type": "LineString"
    },
    "geometry_name": "GEOMETRY",
-   "id": "LTFR_P_MOTORCYKEL.183",
+   "id": "LTFR_P_MOTORCYKEL.210",
    "properties": {
     "ADDRESS": "<Adress saknas>",
     "CITATION": "0180 2019-05280",
@@ -93,7 +93,7 @@
     "EXTENT_NO": 4062,
     "FEATURE_OBJECT_ID": 0,
     "FEATURE_VERSION_ID": 0,
-    "FID": 183,
+    "FID": 210,
     "OTHER_INFO": "Servicetid måndag 08:00–16:00 1 november–15 maj",
     "PARKING_DISTRICT": "Årsta",
     "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
@@ -111,103 +111,6 @@
   },
   {
    "bbox": [
-    18.053812,
-    59.294696,
-    18.053901,
-    59.294713
-   ],
-   "geometry": {
-    "coordinates": [
-     [
-      18.053901,
-      59.294696
-     ],
-     [
-      18.053812,
-      59.294713
-     ]
-    ],
-    "type": "LineString"
-   },
-   "geometry_name": "GEOMETRY",
-   "id": "LTFR_P_MOTORCYKEL.237",
-   "properties": {
-    "ADDRESS": "<Adress saknas>",
-    "CITATION": "0180 2019-02106",
-    "CITY_DISTRICT": "Årsta",
-    "DAY_TYPE": "vardag utom vardag före sön- och helgdag",
-    "END_DAY": 31,
-    "END_MONTH": 10,
-    "END_TIME": 1900,
-    "EXTENT_NO": 7142,
-    "FEATURE_OBJECT_ID": 0,
-    "FEATURE_VERSION_ID": 0,
-    "FID": 237,
-    "OTHER_INFO": "Servicetid torsdag 08:00–16:00 1 november–15 maj",
-    "PARKING_DISTRICT": "Årsta",
-    "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
-    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2019&LopNr=02106",
-    "START_DAY": 16,
-    "START_MONTH": 5,
-    "START_TIME": 700,
-    "STREET_NAME": "Bråviksvägen",
-    "VALID_FROM": "2019-05-31T22:00:00Z",
-    "VF_METER": 4,
-    "VF_PLATS_TYP": "Reserverad p-plats motorcykel boende"
-   },
-   "type": "Feature"
-  },
-  {
-   "bbox": [
-    18.053812,
-    59.294696,
-    18.053901,
-    59.294713
-   ],
-   "geometry": {
-    "coordinates": [
-     [
-      18.053901,
-      59.294696
-     ],
-     [
-      18.053812,
-      59.294713
-     ]
-    ],
-    "type": "LineString"
-   },
-   "geometry_name": "GEOMETRY",
-   "id": "LTFR_P_MOTORCYKEL.238",
-   "properties": {
-    "ADDRESS": "<Adress saknas>",
-    "CITATION": "0180 2019-02106",
-    "CITY_DISTRICT": "Årsta",
-    "DAY_TYPE": "vardag utom vardag före sön- och helgdag",
-    "END_DAY": 15,
-    "END_MONTH": 5,
-    "END_TIME": 800,
-    "EXTENT_NO": 7142,
-    "FEATURE_OBJECT_ID": 0,
-    "FEATURE_VERSION_ID": 0,
-    "FID": 238,
-    "OTHER_INFO": "Servicetid torsdag 08:00–16:00 1 november–15 maj",
-    "PARKING_DISTRICT": "Årsta",
-    "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
-    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2019&LopNr=02106",
-    "START_DAY": 1,
-    "START_MONTH": 11,
-    "START_TIME": 1600,
-    "START_WEEKDAY": "torsdag",
-    "STREET_NAME": "Bråviksvägen",
-    "VALID_FROM": "2019-05-31T22:00:00Z",
-    "VF_METER": 4,
-    "VF_PLATS_TYP": "Reserverad p-plats motorcykel boende"
-   },
-   "type": "Feature"
-  },
-  {
-   "bbox": [
     18.054834,
     59.296483,
     18.05491,
@@ -231,7 +134,7 @@
     "type": "LineString"
    },
    "geometry_name": "GEOMETRY",
-   "id": "LTFR_P_MOTORCYKEL.344",
+   "id": "LTFR_P_MOTORCYKEL.363",
    "properties": {
     "ADDRESS": "<Adress saknas>",
     "CITATION": "0180 2019-02105",
@@ -243,7 +146,7 @@
     "EXTENT_NO": 916,
     "FEATURE_OBJECT_ID": 0,
     "FEATURE_VERSION_ID": 0,
-    "FID": 344,
+    "FID": 363,
     "OTHER_INFO": "Servicetid tisdag 08:00–16:00 1 november–15 maj",
     "PARKING_DISTRICT": "Årsta",
     "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
@@ -283,7 +186,7 @@
     "type": "LineString"
    },
    "geometry_name": "GEOMETRY",
-   "id": "LTFR_P_MOTORCYKEL.345",
+   "id": "LTFR_P_MOTORCYKEL.364",
    "properties": {
     "ADDRESS": "<Adress saknas>",
     "CITATION": "0180 2019-02105",
@@ -295,7 +198,7 @@
     "EXTENT_NO": 916,
     "FEATURE_OBJECT_ID": 0,
     "FEATURE_VERSION_ID": 0,
-    "FID": 345,
+    "FID": 364,
     "OTHER_INFO": "Servicetid tisdag 08:00–16:00 1 november–15 maj",
     "PARKING_DISTRICT": "Årsta",
     "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
@@ -307,6 +210,103 @@
     "STREET_NAME": "Borensvägen",
     "VALID_FROM": "2019-05-31T22:00:00Z",
     "VF_METER": 5,
+    "VF_PLATS_TYP": "Reserverad p-plats motorcykel boende"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.053812,
+    59.294696,
+    18.053901,
+    59.294713
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.053901,
+      59.294696
+     ],
+     [
+      18.053812,
+      59.294713
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_MOTORCYKEL.535",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2019-02106",
+    "CITY_DISTRICT": "Årsta",
+    "DAY_TYPE": "vardag utom vardag före sön- och helgdag",
+    "END_DAY": 31,
+    "END_MONTH": 10,
+    "END_TIME": 1900,
+    "EXTENT_NO": 7142,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 535,
+    "OTHER_INFO": "Servicetid torsdag 08:00–16:00 1 november–15 maj",
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2019&LopNr=02106",
+    "START_DAY": 16,
+    "START_MONTH": 5,
+    "START_TIME": 700,
+    "STREET_NAME": "Bråviksvägen",
+    "VALID_FROM": "2019-05-31T22:00:00Z",
+    "VF_METER": 4,
+    "VF_PLATS_TYP": "Reserverad p-plats motorcykel boende"
+   },
+   "type": "Feature"
+  },
+  {
+   "bbox": [
+    18.053812,
+    59.294696,
+    18.053901,
+    59.294713
+   ],
+   "geometry": {
+    "coordinates": [
+     [
+      18.053901,
+      59.294696
+     ],
+     [
+      18.053812,
+      59.294713
+     ]
+    ],
+    "type": "LineString"
+   },
+   "geometry_name": "GEOMETRY",
+   "id": "LTFR_P_MOTORCYKEL.536",
+   "properties": {
+    "ADDRESS": "<Adress saknas>",
+    "CITATION": "0180 2019-02106",
+    "CITY_DISTRICT": "Årsta",
+    "DAY_TYPE": "vardag utom vardag före sön- och helgdag",
+    "END_DAY": 15,
+    "END_MONTH": 5,
+    "END_TIME": 800,
+    "EXTENT_NO": 7142,
+    "FEATURE_OBJECT_ID": 0,
+    "FEATURE_VERSION_ID": 0,
+    "FID": 536,
+    "OTHER_INFO": "Servicetid torsdag 08:00–16:00 1 november–15 maj",
+    "PARKING_DISTRICT": "Årsta",
+    "PARKING_RATE": "taxa 14: Vardagar utom vardag före sön- och helgdag klockan 07.00 - 19.00 och vardag före sön- och helgdag klockan 11.00 - 17.00,  2,50 kr/tim.",
+    "RDT_URL": "https://rdt.transportstyrelsen.se/rdt/AF06_View.aspx?BeslutsMyndighetKod=0180&BeslutadAr=2019&LopNr=02106",
+    "START_DAY": 1,
+    "START_MONTH": 11,
+    "START_TIME": 1600,
+    "START_WEEKDAY": "torsdag",
+    "STREET_NAME": "Bråviksvägen",
+    "VALID_FROM": "2019-05-31T22:00:00Z",
+    "VF_METER": 4,
     "VF_PLATS_TYP": "Reserverad p-plats motorcykel boende"
    },
    "type": "Feature"

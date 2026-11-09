@@ -1,12 +1,7 @@
 {
-  "fetched_at": "2026-11-02T22:19:41+00:00",
+  "fetched_at": "2026-11-09T11:42:01+00:00",
   "changed": [
-    "ptillaten",
-    "servicedagar",
-    "prorelsehindrad",
-    "pmotorcykel",
-    "plastbil",
-    "pbuss"
+    "pmotorcykel"
   ],
   "streets": [
     "Ottsjövägen",
